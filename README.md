@@ -1,3 +1,2 @@
-bash'''
-       pip install requests colorama
-       '''
+# Install necessary packages
+pip install requests colorama
